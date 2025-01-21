@@ -1,2 +1,2 @@
-# Power-bi-dashboard
+# Power-bi
 A POWER BI DASHBOARD SHOWING SALES TRENDS. 
